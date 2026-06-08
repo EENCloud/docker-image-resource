@@ -1,4 +1,5 @@
 name: docker-image-resource
+slug: docker-image-resource
 id: ari:cloud:compass:4337fc0d-aa55-4ff9-bd75-ef7117ff9381:component/4c6fdffe-fa4a-46ef-9e6f-a1aa05480c89/b51c7d6e-381b-4415-bc3a-ebcdc48cf570
 configVersion: 1
 typeId: OTHER
