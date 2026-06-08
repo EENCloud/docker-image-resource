@@ -1,0 +1,9 @@
+name: docker-image-resource
+slug: docker-image-resource
+id: ari:cloud:compass:4337fc0d-aa55-4ff9-bd75-ef7117ff9381:component/4c6fdffe-fa4a-46ef-9e6f-a1aa05480c89/b51c7d6e-381b-4415-bc3a-ebcdc48cf570
+configVersion: 1
+typeId: OTHER
+ownerId: ari:cloud:identity::team/02623aed-f05b-4acd-8187-7932552722de-13 # Events - OBC (263)
+links:
+  - type: REPOSITORY
+    url: https://github.com/EENCloud/docker-image-resource
